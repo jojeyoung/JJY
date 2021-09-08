@@ -21,4 +21,7 @@ public class Board {
 	private int id; //PK (자동증가 번호)
 	private String title; // 아이디
 	private String content;
+	
+	
+	
 }

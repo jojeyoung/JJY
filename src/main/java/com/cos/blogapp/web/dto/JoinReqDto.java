@@ -1,6 +1,7 @@
 package com.cos.blogapp.web.dto;
 
 import javax.validation.constraints.NotBlank;
+
 import javax.validation.constraints.Size;
 
 import com.cos.blogapp.domain.user.User;
